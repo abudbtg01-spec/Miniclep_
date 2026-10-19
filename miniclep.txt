@@ -1,0 +1,11 @@
+Miniclep Project
+
+A standalone Android voxel sandbox game project based on the Luanti engine.
+
+Goals:
+- Create Miniclep branding.
+- Support exploration and building.
+- Develop Android app packaging.
+- Use Luanti as the game engine.
+
+Status: In development.
